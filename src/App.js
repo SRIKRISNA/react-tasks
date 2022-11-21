@@ -1,10 +1,11 @@
 import './App.css';
+import Webpage from './components/webpage/main';
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <>
+      <Webpage/>
+    </>
   );
 }
 
