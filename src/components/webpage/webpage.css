@@ -1,0 +1,17 @@
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#menu{
+    display: flex;
+    flex-direction: column;
+}
+a, .contact{
+    text-decoration: none;
+    color: gray;
+}
+a:hover, .contact:hover{
+    color: black;
+}
