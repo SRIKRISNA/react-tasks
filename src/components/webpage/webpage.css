@@ -4,6 +4,10 @@
     justify-content: space-around;
     align-items: center;
 }
+body{
+    background:#752;
+    margin: 50px 0px;
+}
 #menu{
     display: flex;
     flex-direction: column;
@@ -14,4 +18,21 @@ a, .contact{
 }
 a:hover, .contact:hover{
     color: black;
+}
+.img-src{
+    bottom: 0;
+}
+.mainn{
+    display: flex;
+}
+.upper-sec{
+    display: flex;
+    align-items: center;
+}
+#right-name{
+    margin-left:350px;
+    /* right: 0; */
+}
+.sidebar-container{
+    padding: 20px;
 }
