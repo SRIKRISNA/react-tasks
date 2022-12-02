@@ -1,0 +1,17 @@
+.carousel-root {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner {
+    margin-top: -150px;
+    background-color: #000;
+    color: white;
+    padding: 15px;
+}
+.carousel .thumbs {
+    text-align: center;
+}
+h2{
+    font-size: 45px;
+}

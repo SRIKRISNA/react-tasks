@@ -1,0 +1,44 @@
+.green{
+    background: green;
+}
+.red{
+    background: red;
+}
+.neutral{
+    background: rgb(10, 72, 243);
+}
+.temp-btn{
+    margin-top: 150px;
+}
+button{
+    color: rgb(56, 4, 4);
+    padding: 25px;
+    border-radius: 50%;
+    border: none;
+    font-size: 40px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#minus{
+    margin-left: 20px;
+}
+#plus{
+
+}
+.temp-container{
+    height: 250px;
+    width: 180px;
+    background: #357;
+    padding: 30px;
+    display: flex;
+    margin: 50px auto;
+    justify-content: center;
+    border-radius: 20px;
+}
+.tempView{
+    position: absolute;
+    padding: 50px;
+    color: white;
+    font-size: 25px;
+    border-radius:50%;
+    border: 5px solid white;
+}
